@@ -10,7 +10,7 @@ class Body extends Component {
           Easily host and share events with your friends across any social
           media.
         </p>
-        <img src={createEvent} alt="Create Event" />
+        <img id="create-event" src={createEvent} alt="Create Event" />
       </div>
     );
   }

@@ -22,3 +22,72 @@
   border-radius: 100px;
   border: 0px;
 }
+
+#body {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 40vh;
+  justify-content: center;
+}
+
+#comment {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.32px;
+  color: #ffffff;
+}
+
+#tag-line {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.32px;
+  color: #ffffff;
+}
+
+#create-event {
+  width: 65%;
+}
+
+#cover-photo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 10%;
+  height: 35vh;
+  align-content: center;
+  padding: 10px;
+  background: url("./resources/Social Media icons.png");
+  background-size: contain;
+}
+
+#left {
+  position: relative;
+  width: 23vh;
+  left: -2vw;
+}
+
+#middle {
+  position: absolute;
+  width: 60vw;
+  bottom: 1vw;
+}
+
+#right {
+  position: relative;
+  width: 23vh;
+  right: -2vw;
+}
