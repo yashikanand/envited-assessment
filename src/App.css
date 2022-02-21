@@ -1,7 +1,7 @@
 body {
   background: linear-gradient(163.63deg, #501fc1 12.2%, #c346d5 96.78%);
   background-repeat: no-repeat;
-  height: 100vh;
+  height: 100%;
 }
 
 #header {
@@ -73,7 +73,7 @@ body {
   flex-direction: row;
   justify-content: center;
   padding-top: 10%;
-  height: 35vh;
+
   align-items: center;
   padding: 10px;
   background: url("./resources/Social Media icons.png");
