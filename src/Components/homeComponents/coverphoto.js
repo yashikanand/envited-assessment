@@ -1,7 +1,7 @@
 import { Component } from "react";
-import middle from "./../resources/Product Image _ Middle.png";
-import left from "./../resources/Product Image _ Left.png";
-import right from "./../resources/Product Image _ Right.png";
+import middle from "./../../resources/Product Image _ Middle.png";
+import left from "./../../resources/Product Image _ Left.png";
+import right from "./../../resources/Product Image _ Right.png";
 
 class CoverPhoto extends Component {
   render() {

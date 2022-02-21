@@ -1,5 +1,5 @@
 import { Component } from "react";
-import createEvent from "./../resources/Create event button.png";
+import createEvent from "./../../resources/Create event button.png";
 
 class Body extends Component {
   render() {
