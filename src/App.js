@@ -7,9 +7,9 @@ import Event from "./Components/event";
 function App() {
   return (
     <div>
-      {/* <Header />
+      <Header />
       <Body />
-      <CoverPhoto /> */}
+      <CoverPhoto />
       <Event />
     </div>
   );
